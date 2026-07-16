@@ -26,8 +26,9 @@ I'm an IT graduate specializing in **Full-Stack Web Development, Backend Logic, 
 ### 📂 Project Portfolio
 
 A collection of systems, applications, and games I have engineered, ranging from full-stack web applications and IoT telemetry to cross-platform mobile apps and 3D game environments.
-Note: Most project repositories are private because they are deployed to actual clients.
+
 ---
+# Note: Most project repositories are private because they are deployed to actual clients.
 
 #### 🗳️ [NexusVote: Electronic Voting App](https://github.com/YOUR_GITHUB_USERNAME/nexus-vote)
 *A secure, cross-platform mobile voting application.*
