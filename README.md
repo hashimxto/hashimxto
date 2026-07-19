@@ -91,5 +91,5 @@ Note: Most project repositories are private because they are deployed to actual 
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [Jiro Miguel Eugenio](https://linkedin.com/in/jiro-miguel-gonzales-eugenio-757171395)
+- 💼 **LinkedIn:** [Jiro Miguel Eugenio](https://www.linkedin.com/in/jiromgl/)
 - 📧 **Email:** [jiromigueleugenio@gmail.com](mailto:jiromigueleugenio@gmail.com)
